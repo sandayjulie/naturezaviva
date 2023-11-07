@@ -1,0 +1,15 @@
+.card {
+    width: 400px;
+    color: rgb(0, 0, 0);
+    font-weight: 200;
+}
+
+.butao{
+    align-items: center;
+    justify-content: center;
+}
+
+.preco{
+    font-weight: 600;
+    font-size: large;
+}

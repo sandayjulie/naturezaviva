@@ -1,0 +1,22 @@
+[{
+        "id": 0,
+        "titulo": "Gel Para Massagem Tirador 12 Ervas Natuseiva 200g",
+        "descricao": "Gel natural para massagens. Com efeito refrescante e calmante, ótimo para sessões terapêuticas e muito usado em diferentes salões.",
+        "preco": "105,00",
+        "img": "https://mundoverde.vtexassets.com/arquivos/ids/247990-1600-1600?v=638290090823300000&width=1600&height=1600&aspect=true"
+    },
+    {
+        "id": 1,
+        "titulo": "Loção Adstringente Pepitônico Natuseiva 200ml",
+        "descricao": "Esta loção é rica em extrato artesanal de Pepino e extrato natural de Hamamélis. Testada e aprovada dermatologicamente.",
+        "preco": "130,00",
+        "img": "https://mundoverde.vtexassets.com/arquivos/ids/247998-1600-1600?v=638290090871970000&width=1600&height=1600&aspect=true"
+    },
+    {
+        "id": 2,
+        "titulo": "Hidratante Corporal Firmador Aloha 200ml",
+        "descricao": "Este hidratante possui uma combinação de ingredientes para proporcionar proteção e hidratação para suas mãos.",
+        "preco": "156,00",
+        "img": "https://mundoverde.vtexassets.com/arquivos/ids/227882-1600-1600?v=638197518817100000&width=1600&height=1600&aspect=true"
+    }
+]
